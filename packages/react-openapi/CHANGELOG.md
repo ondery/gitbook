@@ -1,5 +1,12 @@
 # @gitbook/react-openapi
 
+## 0.6.1
+
+### Patch Changes
+
+-   094e9cd: bump: scalar from 1.0.5 to 1.0.7
+-   c079c3c: Update Scalar client to latest version
+
 ## 0.6.0
 
 ### Minor Changes
